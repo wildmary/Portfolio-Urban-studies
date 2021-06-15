@@ -1,5 +1,8 @@
 # Portfolio-Urban studies
-Работы, выполненные в рамках курса «Городская информатика и пространственный анализ» майнора «Урбанистика» (2018):
+Работы, выполненные в рамках курса «Городская информатика и пространственный анализ» от Школы Урбанистики НИУ ВШЭ (2021 и 2018):
+
+**Anglo-Saxon settlements**
+(https://github.com/wildmary/Portfolio-Urban-studies/blob/master/Levchenko_settlements_3.png) (https://github.com/wildmary/Portfolio-Urban-studies/blob/master/Levchenko_animation_1.gif)
 
 
 **Объективный и субъективный уровень преступности по городу Москве**
