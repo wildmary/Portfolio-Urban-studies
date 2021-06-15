@@ -3,7 +3,7 @@
 
 **Anglo-Saxon settlements**
 * динамическая карта
-![animation](https://github.com/wildmary/Portfolio-Urban-studies/blob/master/Levchenko_animation_1.gif width=100)
+![animation](https://github.com/wildmary/Portfolio-Urban-studies/blob/master/Levchenko_animation_1.gif)
 
 
 **Объективный и субъективный уровень преступности по городу Москве**
